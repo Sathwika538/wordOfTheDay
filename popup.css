@@ -1,0 +1,68 @@
+body {
+    width: 300px;
+    margin: 1rem;
+    font-family: cursive;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    /* padding-left: 1.4rem; */
+}
+
+.adds {
+    padding-left: 1.4rem;
+    padding-right: 1.4rem;
+}
+
+.pos {
+    display: inline;
+    /* padding-left: 1.4rem; */
+    font-weight:700;
+    text-align: center;
+}
+
+.ex {
+    display: inline;
+    /* padding-left: 1.4rem; */
+    font-weight:700;
+    text-align: center;
+}
+
+/* p {
+    display: inline;
+    padding-left: 1.4rem;
+} */
+
+#wordDef {
+    display: block;
+    text-align: center;
+}
+
+#partOfSpeech {
+    display: inline;
+}
+
+.title2 {
+    display: block;
+    text-align: center;
+}
+
+.word {
+    text-align: center;
+}
+
+li {
+    float: left;
+    padding-right: 1.7rem;
+}
+
+
+
+
+
+
+
+
